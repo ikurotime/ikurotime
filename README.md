@@ -1,4 +1,5 @@
 - 👋 Hi, I’m David Huertas
 - 👀 I’m interested in apps and software development
 - 🌱 I’m currently learning Python and Web development
-
+- 🔭 My goal: expand my knowledge and grow as a developer
+- ⚡ I guess im bilingual
