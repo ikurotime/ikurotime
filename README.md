@@ -1,6 +1,6 @@
 👋 Hi, I'm David Huertas, a junior developer
 - 👀 I'm interested in apps and software development
-- 🌱 I'm currently learning Python and Web development
+- 🌱 I'm currently learning React, React Native, and Web Development as a whole
 - 🔭 My goal: expand my knowledge and grow as a developer
 - ⚡ I guess im bilingual
  
