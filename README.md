@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm David Huertas</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🌱 I’m currently learning **React,TypeScript and GCP**
+- 🌱&nbsp;&nbsp;I’m currently learning **React,TypeScript and GCP**
 
-- 🔭 My goal: **expand my knowledge and grow as a developer**
+- 🔭&nbsp;&nbsp;My goal: **expand my knowledge and grow as a developer**
 
-- 👨‍💻 All of my projects are available at [https://davidhuertas.dev](https://davidhuertas.dev)
+- 👨‍💻&nbsp;&nbsp;All of my projects are available at [https://davidhuertas.dev](https://davidhuertas.dev)
 
-- 📫 You can reach me at **davidhuertasortiz@gmail.com**
+- 📫&nbsp;&nbsp;You can reach me at **davidhuertasortiz@gmail.com**
 
-- ⚡ I guess im bilingual
+- ⚡&nbsp;&nbsp;I guess I'm bilingual
 
 
 <h3 align="left">Languages and Tools:</h3>
