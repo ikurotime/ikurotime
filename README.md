@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Huertas</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🌱&nbsp;&nbsp;I use vim btw**
+- 🌱&nbsp;&nbsp;I use vim btw
 
 - 🔭&nbsp;&nbsp;My goal: **expand my knowledge and grow as a developer**
 
